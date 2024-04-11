@@ -1,7 +1,7 @@
 import pygame
 import os
 from random import randint 
-os.chdir(r"C:\Users\Murat\OneDrive\Рабочий стол\pp2-22B031132\TSIS #9\racer")
+os.chdir(r"C:\Users\Рабочий стол\repositories\work\lab 8\racer\images")
 
 pygame.init()
 pygame.time.set_timer(pygame.USEREVENT, 2500)
